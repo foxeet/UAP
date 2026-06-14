@@ -23,9 +23,10 @@
 
 | 入口 | 中文名 | 网址 | 内容 |
 |---|---|---|---|
-| **PURSUE** | 总统 UAP 遭遇解密与报告系统 | `war.gov/ufo` | 2026 年新设的滚动解密门户，已分三批公开文件、照片、视频、音频 |
+| **PURSUE** | 总统 UAP 遭遇解密与报告系统 | `war.gov/UFO` | 2026 年新设的滚动解密门户，已分三批公开文件、照片、视频、音频 |
 | **AARO 官方影像库** | 五角大楼“全域异常解析办公室”影像库 | `aaro.mil` → UAP Cases → Official UAP Imagery | 军方传感器拍摄的视频/图片，**附 AARO 的科学评估结论**（已解决/未解决） |
 | **NARA RG 615** | 美国国家档案馆“不明异常现象档案集”第 615 号档案群 | `archives.gov/research/topics/uaps` | 依 2024 财年《国防授权法》第 1841–1843 条设立，各机构移交的历史 UFO/UAP 档案，在线滚动上传 |
+| **NASA UAP** | NASA 官方 UAP 科学页面 | `science.nasa.gov/uap` | NASA 的科学立场与 2023 年独立研究小组报告；强调用数据/AI 做科学研究（见第五·NASA 节） |
 
 > **名词对照**
 > - **UAP** = Unidentified Anomalous Phenomena，不明异常现象（旧称 UFO，不明飞行物）。
@@ -154,19 +155,36 @@
 
 ---
 
+## 五·NASA：官方科学立场（`science.nasa.gov/uap`）
+
+> 与“解密档案”不同，NASA 这个入口代表的是**科学界的态度**——用什么方法去研究、得出了什么结论。这是判断“是不是外星”最该参考的官方科学声音。
+
+**NASA UAP 独立研究小组报告（2023-09-14 发布）**
+
+- 组成：2022 年组建，**16 位专家**，由天体物理学家 **大卫·斯佩格尔（David Spergel）** 任主席。
+- **核心结论：没有证据表明这些 UAP 目击是外星来源（no evidence that reported UAP observations are extraterrestrial）。**
+- 关键判断：目前**高质量观测数据太少**，无法对其性质下确定的科学结论。
+- 在国防部/AARO 收集的 **800 多起**非密目击中，**只有极少数**无法立刻被识别为已知的人造或自然现象。
+- 建议 NASA 用其在**数据分析、人工智能/机器学习、对地观测卫星**方面的优势，系统化、去污名化地研究 UAP；并据此**任命了一名“UAP 研究主任（Director of UAP Research）”**统筹工作。
+
+> 一句话：**NASA 的态度是“需要更高质量的数据，而不是已经确认外星来源”。** 这与 PURSUE/AARO 的“未解决 ≠ 外星”完全一致。
+
+---
+
 ## 六、如何自己访问与核实
 
 1. **PURSUE 门户**：浏览器打开 `war.gov/ufo`，可按批次（Release 01/02/03）下载 PDF、视频、音频。
 2. **AARO 影像库**：`aaro.mil` → 顶部菜单 **UAP Cases** → **Official UAP Imagery**，每段视频点开有官方说明与结论（resolved/unresolved）。
 3. **国家档案馆**：`archives.gov/research/topics/uaps`，进入 **RG 615** 在线目录，按滚动更新检索原始档案。
+4. **NASA 科学页面**：`science.nasa.gov/uap`，查看 NASA 的科学立场与 2023 年独立研究小组报告（可下载报告全文）。
 
-> 小贴士：判断真伪时，**优先看 AARO 的逐案结论**与**原始文件**，而不是社交媒体二手剪辑或加了耸动标题的转载。
+> 小贴士：判断真伪时，**优先看 AARO 的逐案结论 / NASA 的科学结论**与**原始文件**，而不是社交媒体二手剪辑或加了耸动标题的转载。
 
 ---
 
 ## 七、一句话总览
 
-> 美国 2026 年确实**大规模解密**了 UFO/UAP 资料（PURSUE 三批 + AARO 影像库 + 国家档案馆 RG 615），其中**有大量真实的军方与平民视频**；但官方对它们的统一定性是“**未解决 / 仅供参考**”，**并未公布任何确认外星生命的证据**。许多片段已被判定为气球、鸟、飞机或传感器/光学现象，少数因数据不足仍属“未解决”。
+> 美国 2026 年确实**大规模解密**了 UFO/UAP 资料（PURSUE 三批 + AARO 影像库 + 国家档案馆 RG 615），其中**有大量真实的军方与平民视频**；但官方对它们的统一定性是“**未解决 / 仅供参考**”，**并未公布任何确认外星生命的证据**。许多片段已被判定为气球、鸟、飞机或传感器/光学现象，少数因数据不足仍属“未解决”。**NASA 2023 年独立研究小组的科学结论同样是：没有证据表明这些目击是外星来源，关键问题是高质量数据太少。**
 
 ---
 
@@ -177,6 +195,12 @@
 - AARO 官方 UAP 影像库：https://www.aaro.mil/UAP-Cases/Official-UAP-Imagery/
 - AARO UAP 记录页：https://www.aaro.mil/UAP-Records/
 - 国家档案馆 UAP 专题（RG 615）：https://www.archives.gov/research/topics/uaps 与 https://www.archives.gov/research/topics/uaps/rg-615
+- NASA 官方 UAP 页面：https://science.nasa.gov/uap/
+
+**NASA UAP 独立研究小组（2023 报告）**
+- NASA 官方新闻稿（公布报告并任命研究主任）：https://www.nasa.gov/news-release/update-nasa-shares-uap-independent-study-report-names-director/
+- 维基百科“NASA UAP Independent Study Team”：https://en.wikipedia.org/wiki/NASA_Unidentified_Anomalous_Phenomena_Independent_Study_Team
+- Space.com（无外星来源证据）：https://www.space.com/nasa-ufo-uap-study-team-first-results-revealed
 
 **第一批（2026-05-08）**
 - CBS News：https://www.cbsnews.com/news/pentagon-begins-release-ufo-files/
