@@ -1,3 +1,9 @@
+<div align="right">
+
+**简体中文** ｜ [English](README.en.md)
+
+</div>
+
 # 美国官方 UAP（UFO /“外星”相关）解密资料 · 中文翻译与导览
 
 > 整理日期：2026-06-14

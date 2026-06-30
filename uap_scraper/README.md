@@ -1,3 +1,9 @@
+<div align="right">
+
+**简体中文** ｜ [English](README.en.md)
+
+</div>
+
 # uap_scraper — 抓取美国官方 UAP/UFO 公开资料
 
 一个**纯标准库**（无需 `pip install`）的 Python 工具，用来从美国官方入口抓取 UAP/UFO 资料的元数据与文件：

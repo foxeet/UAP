@@ -1,3 +1,9 @@
+<div align="right">
+
+**简体中文** ｜ [English](product-strategy.en.md)
+
+</div>
+
 # 产品战略：「假如 2027 遇到外星人，地球人怎么办」科学预案网站
 
 > 文档性质：产品/商业蓝图（v1）
